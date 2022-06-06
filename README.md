@@ -2,7 +2,7 @@
 
 ### Personal page
 
-https://olegbarabanov.ru
+[https://olegbarabanov.ru](https://olegbarabanov.ru)
 
 ### Some projects hosted on Github
 
